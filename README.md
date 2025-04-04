@@ -33,3 +33,4 @@ npx cap sync #for the first time, then you can, npx cap copy
 ```sh
 cd android && ./gradlew assembleDebug # for Windows Only
 ```
+Testing GitHub Actions
